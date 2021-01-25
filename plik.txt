@@ -1,0 +1,10 @@
+09:25-10:00 pt gr1 Kowalski Assembler
+10:39-16:29 wt gr2 Nowak Assembler
+14:34-16:39 sr gr2 Nowakowski Java
+13:34-15:53 sr gr2 Kowalski Angular
+17:25-19:34 nd gr1 Andrzejewski Assembler
+10:23-19:34 pt gr1 Nowak JavaScript
+15:24-16:19 wt gr2 Nowak Java
+17:30-19:20 sr gr1 Kowalski JavaScript
+12:34-15:53 sr gr2 Kowalska Java
+20:45-21:24 sb gr1 Andrzejewski Python
